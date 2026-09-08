@@ -1,0 +1,218 @@
+{
+  "version": "6.0.0",
+  "routing": "hash",
+  "assetBase": "relative",
+  "checkout": "demonstration only",
+  "files": [
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "404.html",
+      "bytes": 511,
+      "sha256": "38f17478566e5352e8225afe8bd89f32a8198015e5725a8f39ee70909f163126"
+    },
+    {
+      "path": "UPLOAD-INSTRUCTIONS.md",
+      "bytes": 3704,
+      "sha256": "928f043d83aef99fc1fd570651f5439cbc5a0e7d2e798e353b90d97f411e1939"
+    },
+    {
+      "path": "assets/app.js",
+      "bytes": 215644,
+      "sha256": "4bf48d2d16e7d0a5587cf9181ded0e369132b1d2a054533e7687b538c413f30a"
+    },
+    {
+      "path": "assets/motion.js",
+      "bytes": 5174,
+      "sha256": "2ab9605cf872f39b3a0e8594e691176b84f96bde3b2490ca8ac9bae8969873be"
+    },
+    {
+      "path": "assets/spatial.js",
+      "bytes": 46200,
+      "sha256": "d5e7f9650f88ca43606bdf663c6ddf7c07f1b36788602b65ecf55569967693e4"
+    },
+    {
+      "path": "assets/styles.css",
+      "bytes": 307487,
+      "sha256": "0127b755ae01d3d75c2e3513237ca9df5261ed9602b3e6fdcd03f5155bac5112"
+    },
+    {
+      "path": "index.html",
+      "bytes": 39333,
+      "sha256": "99e65ff0619f3377c260e8bf5dc93f1cb935ac15c3afdaedfcd190896346b3e9"
+    },
+    {
+      "path": "media/brand-mark-right.webp",
+      "bytes": 421380,
+      "sha256": "c1d2cc58835cd3824e29c933a2efeeadeb45ee2d64a5edcbfbe4c2bd39104c00"
+    },
+    {
+      "path": "media/brand-mark-small.png",
+      "bytes": 51699,
+      "sha256": "e20ac277ed02b218ec4a971284ae1e252de8bcfb16f84bde040ac40f679f8267"
+    },
+    {
+      "path": "media/model-chyawanprash-atlas.jpg",
+      "bytes": 169095,
+      "sha256": "d68dc8ef201fc26307c217d3021bdc1ec75e3e9782c501c3ee773b9a689cfe8b"
+    },
+    {
+      "path": "media/model-herbal-jari-booti-oil-atlas.jpg",
+      "bytes": 159332,
+      "sha256": "b7a71c88cc20a0bcf8703660813a51c7a480ccefe5b701473aacfe3c0c3ea9f8"
+    },
+    {
+      "path": "media/model-majun-jalali-atlas.jpg",
+      "bytes": 225516,
+      "sha256": "83b1fc4737e4edfe4db9ea46d4e071bffaf4c2044dc7ccfc2ff598e143d5307b"
+    },
+    {
+      "path": "media/model-ras-e-faulad-atlas.jpg",
+      "bytes": 185382,
+      "sha256": "d13c4e85302f1e31bbb70b1183a862ff501149430c048775956e74177f6b0161"
+    },
+    {
+      "path": "media/model-ras-e-jalali-atlas.jpg",
+      "bytes": 225712,
+      "sha256": "4e7055ebf222e83d10bdad9f0e52d7ebf287a83917b2a907eaec8972a03cc48f"
+    },
+    {
+      "path": "media/ref-chyawanprash-crop.webp",
+      "bytes": 41568,
+      "sha256": "f358a1fb62b39e7ea127187f220c12eafcb9ede841aa324a0720b1fa8d7e833e"
+    },
+    {
+      "path": "media/ref-chyawanprash-cutout.webp",
+      "bytes": 38604,
+      "sha256": "4782a5c6cb96857447457e5e6e6865b87ba3a0d3de7de09edf3f4c7d357be3e0"
+    },
+    {
+      "path": "media/ref-chyawanprash-label.webp",
+      "bytes": 27044,
+      "sha256": "f46b5172fac2521bae9e23a21581abcb8975522801c385cc469a096c45c669b3"
+    },
+    {
+      "path": "media/ref-chyawanprash-thumb.webp",
+      "bytes": 38604,
+      "sha256": "4782a5c6cb96857447457e5e6e6865b87ba3a0d3de7de09edf3f4c7d357be3e0"
+    },
+    {
+      "path": "media/ref-gift-green-original.jpg",
+      "bytes": 91744,
+      "sha256": "a57c3dedef2287bcf5aa5c4fc8523884d5b9fc7ea7c6c122704356fe20856e82"
+    },
+    {
+      "path": "media/ref-gift-paper-original.jpg",
+      "bytes": 161739,
+      "sha256": "56e52b3502ab0b653a603e37d40b3a7593278dafdd3b91385d1e3a6a6c81445a"
+    },
+    {
+      "path": "media/ref-gift-wood-original.jpg",
+      "bytes": 135432,
+      "sha256": "9247a8e83beff63c8e7597308ff44d5cea1ab7d6f3ca995e9d127f48f189e7e3"
+    },
+    {
+      "path": "media/ref-herbal-jari-booti-oil-crop.webp",
+      "bytes": 34380,
+      "sha256": "f457d5d7263a7d74c95dcc17a00e4b86d39ee50c10056103bd3835ecaf14c43f"
+    },
+    {
+      "path": "media/ref-herbal-jari-booti-oil-cutout.webp",
+      "bytes": 36146,
+      "sha256": "6631c396fd78da82adc26a025bbe8e537fff0e8993fff15bc0c456cfe4ce3a02"
+    },
+    {
+      "path": "media/ref-herbal-jari-booti-oil-label.webp",
+      "bytes": 18546,
+      "sha256": "c41279268327deb01a454fdf0d74e9c1a606f1a618f25c56156a8ad91a694238"
+    },
+    {
+      "path": "media/ref-herbal-jari-booti-oil-thumb.webp",
+      "bytes": 36146,
+      "sha256": "6631c396fd78da82adc26a025bbe8e537fff0e8993fff15bc0c456cfe4ce3a02"
+    },
+    {
+      "path": "media/ref-majun-jalali-crop.webp",
+      "bytes": 351982,
+      "sha256": "7368b101077852e27ac993fc467687ce0b69617de2f3a0a9cc0c1d7ee4d4d51c"
+    },
+    {
+      "path": "media/ref-majun-jalali-cutout.webp",
+      "bytes": 361424,
+      "sha256": "0d512abe811595fea729415748d3867fe07c5a1f94dac72c91a462242ff8c640"
+    },
+    {
+      "path": "media/ref-majun-jalali-label.webp",
+      "bytes": 258974,
+      "sha256": "9cd26f1e01962a201f9d1299bad60e74515eee88c01c36692c63130472308ff9"
+    },
+    {
+      "path": "media/ref-majun-jalali-original.jpg",
+      "bytes": 121049,
+      "sha256": "ae2fff8bb2f45812928f78764ff795d98ce68f6741640aa70339dc03971c90ec"
+    },
+    {
+      "path": "media/ref-majun-jalali-thumb.webp",
+      "bytes": 72300,
+      "sha256": "eeb289bf7c557a33c7eb261c4765f8e3ae2835f86173c5937a41dda558b17bb3"
+    },
+    {
+      "path": "media/ref-ras-e-faulad-crop.webp",
+      "bytes": 89926,
+      "sha256": "7093a1c3be55a06e4fc144d8feada427b49845946675dc073c24a359750b7e6f"
+    },
+    {
+      "path": "media/ref-ras-e-faulad-cutout.webp",
+      "bytes": 83780,
+      "sha256": "0e412ebf25b6d7894757f04d53007eeff9b12366f6cebc90bc2281c4522f3a20"
+    },
+    {
+      "path": "media/ref-ras-e-faulad-label.webp",
+      "bytes": 38234,
+      "sha256": "a249a205537b5fa8b777be4e9e58b7695d3adf59f2c21c7493a29341ea7c1d5c"
+    },
+    {
+      "path": "media/ref-ras-e-faulad-original.jpg",
+      "bytes": 83148,
+      "sha256": "70a25da05dda4955ce875e30737bcc983b4c5bfd71dd87498d418b32cecea782"
+    },
+    {
+      "path": "media/ref-ras-e-faulad-thumb.webp",
+      "bytes": 27630,
+      "sha256": "eb95c8b2dcc7b08aa1209a9a091cd54c38c3a30c2f901c1fad888d538afbef99"
+    },
+    {
+      "path": "media/ref-ras-e-jalali-crop.webp",
+      "bytes": 200820,
+      "sha256": "39ac7e14ce32bfbd6ea0630cec1371cc342da27b1217254579ce422ada12b0b6"
+    },
+    {
+      "path": "media/ref-ras-e-jalali-cutout.webp",
+      "bytes": 190704,
+      "sha256": "f4c75ceee7cf155b934ae13b757a64e8da33a78ec66b546ba1142e170e5723f7"
+    },
+    {
+      "path": "media/ref-ras-e-jalali-label.webp",
+      "bytes": 90364,
+      "sha256": "4e4eda8d8764563bedb4618a21a55beb6c13634c39365c2a42cdb5403a678f7d"
+    },
+    {
+      "path": "media/ref-ras-e-jalali-original.jpg",
+      "bytes": 109477,
+      "sha256": "46892541cb4048b81485976d83bc94a286417e3f98bdb2cacceaa730ae2c4cb4"
+    },
+    {
+      "path": "media/ref-ras-e-jalali-thumb.webp",
+      "bytes": 38398,
+      "sha256": "532e50a2d3eaf360b50ace189fd4671be616094567df9201361364fd2cee4ec9"
+    },
+    {
+      "path": "robots.txt",
+      "bytes": 26,
+      "sha256": "331ea9090db0c9f6f597bd9840fd5b171830f6e0b3ba1cb24dfa91f0c95aedc1"
+    }
+  ]
+}
